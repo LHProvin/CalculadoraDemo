@@ -20,7 +20,7 @@ Uma calculadora simples feita com **HTML**, **CSS** e **JavaScript**.
 
 2. Abra o projeto no VS Code:
     Copiar código
-    cd NOME_DO_REPOSITORIO 
+    cd CalculadoraDemo 
     code .
     
 3. Execute com Live Server ou abra index.html no navegador.
