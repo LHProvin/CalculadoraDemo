@@ -16,7 +16,7 @@ Uma calculadora simples feita com **HTML**, **CSS** e **JavaScript**.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://https://github.com/LHProvin/CalculadoraDemo
 
 2. Abra o projeto no VS Code:
     Copiar código
